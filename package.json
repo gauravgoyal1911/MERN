@@ -7,8 +7,7 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author":
-    "Gaurav Goyal<gauravgoyal129@gmail.com> (https://github.com/ergauravgoyal/MERN.git)",
+  "author": "Gaurav Goyal",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
